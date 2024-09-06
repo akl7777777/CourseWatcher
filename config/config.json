@@ -1,0 +1,19 @@
+{
+    "url": "https://www.wxiao.net/wxiao/wechat_fwh/elective/getelectivecourselist_json",
+    "headers": {
+        "Host": "www.wxiao.net",
+        "Cookie": "your-cookie",
+        "accept": "application/json, text/javascript, */*; q=0.01",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 NetType/WIFI MicroMessenger/6.8.0(0x16080000) MacWechat/3.8.8(0x13080813) XWEB/1227 Flue",
+        "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "origin": "https://www.wxiao.net",
+        "sec-fetch-site": "same-origin",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-dest": "empty",
+        "referer": "https://www.wxiao.net/wxiao/wechat_fwh/elective/electivecourse?student_id=your-student-id",
+        "accept-language": "zh-CN,zh;q=0.9"
+    },
+    "data": "course_name=&student_id=your-student-id",
+    "check_interval": 300
+}
